@@ -4,6 +4,7 @@
  * main - entry point
  * Return: 0 on success, 1 on Eror
  */
+
 int main(int argc, char **argv)
 {
 	info_t data[] = {INFO_INIT};
